@@ -14,3 +14,6 @@ s1 = SensorTemperatura("T1", 22.5)
 s1.leer()
 
 print("Prueba commit en rama test-sensor")
+
+
+vnfvksobibvufvbi
