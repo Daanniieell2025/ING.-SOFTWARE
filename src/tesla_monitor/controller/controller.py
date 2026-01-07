@@ -10,5 +10,10 @@ El Controller sera responsable de:
 - Solicitar y distribuir informacion entre los distintos modulos
 
 En Sprint 1 no se implementa logica de control. Este archivo existe unicamente para definir la arquitectura del software.
+
+Sprint 2: 
+
 """
+
+
 
