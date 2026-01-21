@@ -1,0 +1,11 @@
+# Interfaz grafica
+streamlit>=1.25
+
+# Manejo de datos y CSV
+pandas>=1.5
+
+# Comunicacion Serial con ESP32
+pyserial>=3.5
+
+# Calculo numerico (usado indirectamente en el modelo)
+numpy>=1.23
